@@ -6,3 +6,6 @@ It is a common practice of watching a gameplay video of a digital video game fro
 
 _Comment by Hanzalla (hu297)_
 As an avid gamer myself, I also tend to watch alot of gameplay videos before buying a game. Walkthroughs also help in connfusions at different stages of an RPG game as one might get lost. For virtual Reality games, I would watch even more gamepley videos as due to the first person expereince, I would want to know what I am getting into.
+
+_Comment by Yusra (yk2246)_
+It is interesting to see how the things talked about in this article are also mirrored in how AI and ML training works. Here the gameplay videos are used as the training data set for the human brain which then improves performance when working on the real data set i.e. the actual game.
